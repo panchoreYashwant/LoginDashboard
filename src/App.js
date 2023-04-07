@@ -1,7 +1,6 @@
 import logo from './logo.svg';
 import './App.css';
 import React, { createContext, useState } from 'react';
-import TimeTrackerApp from './Components/TimeTrackerApp';
 import LoginScreen from './Comp_2/Login';
 import Dashboard from './Comp_2/DashBoard';
 import { BrowserRouter, Route, Routes } from 'react-router-dom';
